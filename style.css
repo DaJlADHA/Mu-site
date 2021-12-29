@@ -15,7 +15,7 @@ body {
         height:100%;
 }
 #bg img {
-        position:static;
+        position:relative;
         top:0;
         left:0;
         right:0;
@@ -149,7 +149,7 @@ body {
 }
 
 .portfolio {
-  margin: 0 0 120px;
+  margin: 0 0 50px;
 }
 
 .projects {
@@ -163,7 +163,7 @@ body {
 }
 
 .project-image {
-  margin: 0 0 24px;
+  margin: 0 0 50px;
   text-align: center;
 }
 
@@ -183,17 +183,17 @@ body {
 }
 
 .page-footer {
-  padding: 40px 0;
+  padding: 0px 0;
   background-color: #00417d;
   color: #ffffff;
 }
 
 .page-footer a {
-  margin-left: 56px;
-  color: inherit;
+  margin-left: 0px;
+  color:#df806a;
   text-decoration: none;
   background-repeat: no-repeat;
-  background-position: left;
+  background-position: center;
 }
 
 .footer-email {
