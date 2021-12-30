@@ -27,7 +27,7 @@ body {
 .container {
   max-width: 928px;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0 250px;
 }
 
 .page-header {
@@ -97,7 +97,7 @@ body {
 
 .list {
   font-size: 100px;
-  font-style: normal;
+  font-style: oblique;
 }
 
 .user-image {
