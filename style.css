@@ -176,6 +176,17 @@
   margin: 0 0 24px;
 }
 
+.book {
+color: #626f89;
+font-size: 25px;
+font-family: serif;
+}
+
+.download {
+color: #436f80;
+font-family: cursive;
+}
+
 .button {
   padding: 6px 20px;
   display: inline-block;
