@@ -1,9 +1,8 @@
-@media screen and (max-width: 600px) {
-body {
+  body {
   margin: 0;
   min-width: 960px;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
-  font-size:1.5em;
+  font-size: 16px;
   line-height: 32px;
   color: #222222;
   background-color: #c1842e;
@@ -16,12 +15,12 @@ body {
         height:100%;
 }
 #bg img {
-        position:relative;
+        position:static;
         top:0;
         left:0;
         right:0;
         bottom:0;
-        margin:auto;
+        margin:0;
         min-width:100%;
         min-height:100%;
 }
@@ -72,14 +71,14 @@ body {
 .heading {
   margin: 0 0 16px;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
-  font-size:2.5em;
+  font-size: 88px;
   line-height: 96px;
   font-weight: 400;
 }
 
 .hero-image p {
   margin: 0;
-  font-size:2.5em;
+  font-size: 32px;
   line-height: 48px;
 }
 
@@ -90,14 +89,14 @@ body {
 .subheading {
   margin: 0 0 56px;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
-  font-size:2.5em;
+  font-size: 64px;
   line-height: 80px;
   font-weight: 400;
   text-align: center;
 }
 
 .list {
-  font-size:2.5em;
+  font-size: 100px;
   font-style: oblique;
 }
 
@@ -109,7 +108,7 @@ body {
 .intro h3,
 .portfolio h3 {
   margin: 0 0 12px;
-  font-size:2.5em;
+  font-size: 28px;
   line-height: 40px;
   font-weight: 500;
 }
@@ -210,5 +209,4 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
-}
 }
