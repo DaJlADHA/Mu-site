@@ -1,4 +1,6 @@
 @media screen and (max-width: 600px) {
+    …
+}
 body {
   margin: 0;
   min-width: 960px;
@@ -210,5 +212,4 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
-}
 }
