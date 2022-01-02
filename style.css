@@ -25,14 +25,14 @@
         min-height:100%;
 }
 .container {
-  max-width: 928px;
+  max-width: 50%;
   margin: 0 auto;
   padding: 0 0px;
 }
 
 .page-header {
   margin: 0 0 50px;
-  padding: 32px 0 32px;
+  padding: 0 0 10px;
 }
 
 .page-header .container,
@@ -46,7 +46,7 @@
   color: #288be6;
   text-decoration: none;
   background-repeat: no-repeat;
-  background-position: left;
+  background-position: right;
 }
 
 .header-email {
@@ -215,10 +215,10 @@ font-size: 50px;
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-footer.svg");
+  background-image: url("mastercard.jpg");
 }
 
 .footer-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-footer.svg");
+  background-image: url("mastercard.jpg");
 }
